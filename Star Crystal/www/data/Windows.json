@@ -1,0 +1,1 @@
+{"Scene_Battle":{"Window_BattleStatus":{"x":192,"y":444,"opacity":"255","width":"624","height":"180","rows":"5","cols":"1"},"Window_PartyCommand":{"x":0,"y":444},"Window_ActorCommand":{"x":0,"y":444},"Window_Help":{"x":0,"y":0},"Window_BattleItem":{"x":0,"y":108,"opacity":"255","width":"816","height":"336","cols":"3"}}}

@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":108,"indent":0,"parameters":["Touhou project?"]},{"code":108,"indent":0,"parameters":["Довольно интересно, что отсылок будет много. Крайне много"]},{"code":0,"indent":0,"parameters":[]}],"name":"Блок комментариев","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":340,"indent":0,"parameters":[]},{"code":221,"indent":0,"parameters":[]},{"code":129,"indent":0,"parameters":[12,0,false]},{"code":129,"indent":0,"parameters":[6,1,false]},{"code":129,"indent":0,"parameters":[7,1,false]},{"code":201,"indent":0,"parameters":[0,17,3,3,6,0]},{"code":132,"indent":0,"parameters":[{"name":"46 - RFN - III ","volume":90,"pitch":100,"pan":0}]},{"code":222,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"1","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":111,"indent":0,"parameters":[4,1,6,1]},{"code":111,"indent":1,"parameters":[10,5,false]},{"code":314,"indent":2,"parameters":[0,1]},{"code":319,"indent":2,"parameters":[1,5,0]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
